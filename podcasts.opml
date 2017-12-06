@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8' standalone='no' ?>
+<opml version="1.1">
+	<head>
+		<title>BeyondPod Feeds</title>
+		<dateCreated>Fri, 17 Nov 2017 15:55:44 EST</dateCreated>
+		<dateModified>Fri, 17 Nov 2017 15:55:44 EST</dateModified>
+	</head>
+	<body>
+		<outline text="Uncategorized" />
+		<outline text="tech">
+			<outline text="Coder Radio MP3" xmlUrl="http://feeds.feedburner.com/coderradiomp3" type="rss" />
+			<outline text="Coding Blocks | Software and Web Programming / Security / Best Practices / Microsoft .NET" xmlUrl="http://www.codingblocks.net/feed/podcast" type="rss" />
+			<outline text="Hanselminutes" xmlUrl="http://feeds.podtrac.com/9dPm65vdpLL1" type="rss" />
+			<outline text="Herding Code" xmlUrl="http://feeds.feedburner.com/herdingcode" type="rss" />
+			<outline text="JavaScript Jabber" xmlUrl="http://feeds.feedwrench.com/JavaScriptJabber.rss" type="rss" />
+			<outline text="Programming Throwdown" xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" type="rss" />
+			<outline text="Software Engineering Radio - the podcast for professional software developers" xmlUrl="http://feeds.feedburner.com/se-radio" type="rss" />
+			<outline text="UIE Brain Sparks » Podcasts" xmlUrl="http://www.uie.com/brainsparks/topics/podcasts/feed/" type="rss" />
+			<outline text="NET Rocks" xmlUrl="http://feeds.feedburner.com/dotnetrocks_AAC" type="rss" />
+			<outline text="Beats, Rye &amp; Types" xmlUrl="http://beatsryetypes.com/feed.xml" type="rss" />
+			<outline text="Turing-Incomplete" xmlUrl="http://feeds.feedburner.com/Turing-incomplete" type="rss" />
+			<outline text="ShopTalk" xmlUrl="http://shoptalkshow.com/feed/podcast" type="rss" />
+			<outline text="Software Engineering Daily" xmlUrl="http://softwareengineeringdaily.com/feed/podcast/" type="rss" />
+			<outline text="Talk Python To Me - Python conversations for passionate developers" xmlUrl="https://talkpython.fm/episodes/rss" type="rss" />
+			<outline text="Giant Robots Smashing into Other Giant Robots Podcast" xmlUrl="https://simplecast.com/podcasts/271/rss" type="rss" />
+			<outline text="Full Stack Radio" xmlUrl="https://simplecast.com/podcasts/279/rss" type="rss" />
+			<outline text="The InfoQ Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:215740450/sounds.rss" type="rss" />
+			<outline text="Eat Sleep Code Podcast" xmlUrl="http://feeds.feedburner.com/esc-podcast" type="rss" />
+			<outline text="Developer On Fire" xmlUrl="http://developeronfire.com/rss.xml" type="rss" />
+			<outline text="Cross Cutting Concerns Podcast" xmlUrl="http://feeds.feedburner.com/CrossCuttingConcernsPodcast" type="rss" />
+			<outline text="RFC Podcast" xmlUrl="http://rfcpodcast.com/?feed=podcast" type="rss" />
+			<outline text="Track Changes" xmlUrl="http://trackchanges.libsyn.com/rss" type="rss" />
+			<outline text="Illegal Argument" xmlUrl="http://illegalargument.libsyn.com/rss" type="rss" />
+			<outline text="Recode Decode, hosted by Kara Swisher" xmlUrl="http://feeds.feedburner.com/Recode-Decode" type="rss" />
+			<outline text="Code Crush" xmlUrl="https://rss.simplecast.com/podcasts/3295/rss" type="rss" />
+			<outline text="Weekly Dev Tips" xmlUrl="https://rss.simplecast.com/podcasts/3342/rss" type="rss" />
+			<outline text="The Stack Overflow Podcast" xmlUrl="https://stackoverflow.blog/podcasts/?feed=podcast" type="rss" />
+			<outline text="Developer Tea" xmlUrl="https://rss.simplecast.com/podcasts/363/rss" type="rss" />
+			<outline text="Healthy Software Development with Jayme Edwards" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:332662728/sounds.rss" type="rss" />
+		</outline>
+		<outline text="Science">
+			<outline text="Science Friday Audio Podcast" xmlUrl="http://www.sciencefriday.com/audio/scifriaudio.xml" type="rss" />
+			<outline text="60-Second Science" xmlUrl="http://www.scientificamerican.com/podcast/sciam_podcast_i_d.xml" type="rss" />
+			<outline text="Big Picture Science" xmlUrl="http://arewealone.libsyn.com/rss" type="rss" />
+			<outline text="- The Naked Scientists Podcast - Stripping Down Science" xmlUrl="http://www.thenakedscientists.com/naked_scientists_podcast.xml" type="rss" />
+			<outline text="Quirks and Quarks Complete Show from CBC Radio" xmlUrl="http://www.cbc.ca/podcasting/includes/quirksaio.xml" type="rss" />
+			<outline text="Science Talk" xmlUrl="http://www.scientificamerican.com/podcast/sciam_podcast_i.xml" type="rss" />
+			<outline text="This Week in Science - The Kickass Science Podcast" xmlUrl="http://feeds.feedburner.com/twis/science/" type="rss" />
+			<outline text="Science Vs" xmlUrl="http://feeds.gimletmedia.com/sciencevs" type="rss" />
+		</outline>
+		<outline text="Stuff">
+			<outline text="Stuff To Blow Your Mind" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-to-blow-your-mind.rss" type="rss" />
+			<outline text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" type="rss" />
+			<outline text="BrainStuff" xmlUrl="http://www.howstuffworks.com/podcasts/brainstuff.rss" type="rss" />
+			<outline text="Fw:Thinking" xmlUrl="http://www.howstuffworks.com/podcasts/fwthinking.rss" type="rss" />
+			<outline text="NOVA | PBS" xmlUrl="http://www.pbs.org/wgbh/nova/rss/nova-podcast.xml" type="rss" />
+			<outline text="Smart People Podcast | Podcast interviews featuring: Seth Godin, Tony Hsieh, Brene Brown, Dan Pink, and more!" xmlUrl="http://www.smartpeoplepodcast.com/?feed=podcast" type="rss" />
+			<outline text="TechStuff" xmlUrl="http://www.howstuffworks.com/podcasts/techstuff.rss" type="rss" />
+			<outline text="TEDTalks (audio)" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio" type="rss" />
+			<outline text="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" type="rss" />
+			<outline text="Think Again – a Big Think Podcast" xmlUrl="http://feeds.feedburner.com/ThinkAgainABigThinkPodcast" type="rss" />
+			<outline text="HowStuffWorks NOW" xmlUrl="http://www.howstuffworks.com/podcasts/now.rss" type="rss" />
+			<outline text="DNews Plus" xmlUrl="https://testtube.com/dnewspluspodcasts/itunes/mp3" type="rss" />
+			<outline text="No Dumb Questions" xmlUrl="http://nodumbqs.libsyn.com/rss" type="rss" />
+			<outline text="Part-Time Genius" xmlUrl="http://www.howstuffworks.com/podcasts/part-time-genius.rss" type="rss" />
+			<outline text="Hello Internet" xmlUrl="http://www.hellointernet.fm/podcast?format=rss" type="rss" />
+			<outline text="The Adventure Zone" xmlUrl="http://adventurezone.libsyn.com/rss" type="rss" />
+		</outline>
+		<outline text="Betterment">
+			<outline text="The New Man – Advice for Men on Relationships, Dating, Fitness, Career and Sex" xmlUrl="http://feeds.feedburner.com/TheNewMan" type="rss" />
+			<outline text="Relationship Hot Topics | Love / Dating / Marriage / Divorce / Sex - Comedy Discussion / Debate" xmlUrl="http://tpenetwork.com/feed/rht.xml" type="rss" />
+			<outline text="The Mental Health Happy Hour" xmlUrl="http://mentalhealthhappyhour.com/TheMentalHealthHappyHour.xml" type="rss" />
+			<outline text="The Life Coach School Podcast with Brooke Castillo" xmlUrl="http://thelifecoachschool.libsyn.com/rss" type="rss" />
+			<outline text="Life Is A Marathon: Life Coaching | Self-Esteem | Personal Development | Personal Branding | Positive Thinking" xmlUrl="http://www.lifeisamarathon.com/feed/podcast/" type="rss" />
+			<outline text="The Savvy Psychologist's Quick and Dirty Tips for Better Mental Health" xmlUrl="http://www.quickanddirtytips.com/itunes/5472" type="rss" />
+			<outline text="Oxygen365 by Stronger Families" xmlUrl="http://oxygen365.libsyn.com/rss" type="rss" />
+			<outline text="Getting Things Done" xmlUrl="http://gettingthingsdone.libsyn.com/rss" type="rss" />
+			<outline text="Andy Stanley Leadership Podcast" xmlUrl="http://feeds.feedburner.com/AndyStanleyLeadershipPodcast" type="rss" />
+			<outline text="Voices in the Dark" xmlUrl="http://voicesinthedark.libsyn.com/rss" type="rss" />
+		</outline>
+		<outline text="Data Science">
+			<outline text="Linear Digressions" xmlUrl="http://feeds.feedburner.com/udacity-linear-digressions?format=xml" type="rss" />
+			<outline text="Partially Derivative" xmlUrl="http://feeds.feedburner.com/PartiallyDerivative" type="rss" />
+			<outline text="Talking Machines" xmlUrl="http://www.thetalkingmachines.com/blog/?format=RSS" type="rss" />
+			<outline text="Learning Machines 101" xmlUrl="http://learningmachines101.libsyn.com/rss" type="rss" />
+			<outline text="This Week in Machine Learning &amp; AI Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:228427508/sounds.rss" type="rss" />
+			<outline text="The Cognicast - Cognitect Blog" xmlUrl="http://feeds.feedburner.com/cognicast" type="rss" />
+			<outline text="Data Skeptic" xmlUrl="http://dataskeptic.libsyn.com/rss" type="rss" />
+			<outline text="Hidden Brain" xmlUrl="http://www.npr.org/rss/podcast.php?id=510308" type="rss" />
+			<outline text="The Psychology of Video Games Podcast" xmlUrl="http://psychologyofgames.libsyn.com/rss" type="rss" />
+			<outline text="Not So Standard Deviations" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:174789515/sounds.rss" type="rss" />
+			<outline text="Machine Learning Guide" xmlUrl="http://ocdevel.com/files/podcasts/machine-learning/feed.xml" type="rss" />
+		</outline>
+		<outline text="Security">
+			<outline text="Security Now (MP3)" xmlUrl="http://leoville.tv/podcasts/sn.xml" type="rss" />
+		</outline>
+		<outline text="Healthcare">
+			<outline text="QuackCast" xmlUrl="http://www.quackcast.com/epodcasts/files/rss.xml" type="rss" />
+			<outline text="2 Docs Talk:  Medicine | Health | Healthcare Policy | Evidence Based Medicine" xmlUrl="http://2docstalk.libsyn.com/rss" type="rss" />
+			<outline text="WIHI - A Podcast from the Institute for Healthcare Improvement" xmlUrl="http://app.ihi.org/Podcasts/IHIpodcast.xml" type="rss" />
+			<outline text="Healthcare Tech Talk- Exploring how technology can help meet the challenges in Healthcare." xmlUrl="http://healthtechtalk.libsyn.com/rss" type="rss" />
+			<outline text="Healthcare Intelligence Network" xmlUrl="http://www.hin.com/podcasts/feed.xml" type="rss" />
+		</outline>
+	</body>
+</opml>
